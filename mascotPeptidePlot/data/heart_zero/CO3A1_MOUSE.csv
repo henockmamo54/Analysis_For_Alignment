@@ -1,0 +1,3 @@
+proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
+CO3A1_MOUSE,GPVGPHGPPGK,2,-23.5717910154371,-1.08687562214189,3,4E-05,0.00228604064901221,2330706.33333333,500.27216,0.0220682628336308,2,1,0,6| 16| 21,NaN,,NaN| NaN| NaN| NaN| 0.570130189288363| NaN| NaN| NaN| 0.56286742248046| 0.550763072736491| NaN| NaN,NaN,NaN,0.00577011794370498,0,0.0241638600284823,0.00560674113011427,0,0.00637641333674323,0.00147267598264033,0.978508036125578,0.94488875919411
+

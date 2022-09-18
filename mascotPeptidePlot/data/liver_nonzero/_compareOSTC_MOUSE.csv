@@ -1,0 +1,5 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+OSTC_MOUSE,VPFLVLEcPNLK,2,7
+OSTC_MOUSE,VPFLVLEcPNLK,2,13
+OSTC_MOUSE,VPFLVLEcPNLK,2,24
+

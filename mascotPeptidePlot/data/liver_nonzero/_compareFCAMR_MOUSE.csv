@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+FCAMR_MOUSE,ILTPVST,2,0
+FCAMR_MOUSE,ILTPVST,2,2
+FCAMR_MOUSE,ILTPVST,2,6
+FCAMR_MOUSE,ILTPVST,2,16
+

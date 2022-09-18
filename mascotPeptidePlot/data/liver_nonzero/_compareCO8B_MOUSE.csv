@@ -1,0 +1,7 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+CO8B_MOUSE,STMVEDLVVLVR,2,3
+CO8B_MOUSE,STMVEDLVVLVR,2,6
+CO8B_MOUSE,STMVEDLVVLVR,2,7
+CO8B_MOUSE,STMVEDLVVLVR,2,9
+CO8B_MOUSE,STMVEDLVVLVR,2,13
+

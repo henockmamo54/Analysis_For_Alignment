@@ -1,0 +1,9 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+RM13_MOUSE,LAVIASNK,2,0
+RM13_MOUSE,LAVIASNK,2,6
+RM13_MOUSE,LAVIASNK,2,9
+RM13_MOUSE,LAVIASNK,2,16
+RM13_MOUSE,LAVIASNK,2,31
+RM13_MOUSE,QVTAAQLHR,2,3
+RM13_MOUSE,QVTAAQLHR,2,9
+

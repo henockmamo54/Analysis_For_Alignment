@@ -1,0 +1,3 @@
+proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
+PKHA6_MOUSE,SSMNQLQQWVNLR,2,-0.657956696250619,0.768853402271117,4,0.07846,0.0390168889548841,2257413,802.40411,0.0764996664274968,0,1,1,9| 24,NaN,,NaN| 0.315918123769764| NaN| NaN| NaN| NaN| 0.291377021398715| NaN| NaN| 0.121136259039907| 0.0964647505126985| NaN,NaN,NaN,0.0272572952851019,0,0.330093808773078,0.0790693022464647,0,0.172649305604118,0.0295965105385052,0.26097290679923,0.909508699355436
+

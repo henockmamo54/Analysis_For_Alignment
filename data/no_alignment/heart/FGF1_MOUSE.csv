@@ -1,0 +1,3 @@
+proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
+FGF1_MOUSE,LEENHYNTYTSK,3,0.0660688365002235,0.675660515119233,3,0.11018,0.0421444651742347,4184132,500.23178,0.0299146722899067,2,0,1,1| 2| 3,NaN,,NaN| 0.390146819292393| 0.386110652424432| 0.330200726045689| NaN| NaN| NaN| NaN| NaN| NaN| NaN| NaN,NaN,NaN,0.00779007191498857,0,0.815318239775797,0.163884534510627,0,0.515335923860025,0.0941642166607434,0.81983343484172,0.879923842821715
+

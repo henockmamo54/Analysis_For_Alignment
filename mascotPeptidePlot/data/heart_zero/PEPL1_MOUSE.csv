@@ -1,0 +1,3 @@
+proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
+PEPL1_MOUSE,PLLLLGQLQHLHR,4,0.300411843765022,0.814851990493736,3,0.03709,0.0226503107083969,1147851.33333333,385.23859,0.0621614908227424,0,2,0,1| 2,NaN,,NaN| 0.327526547334546| 0.396113422234433| NaN| NaN| NaN| NaN| NaN| NaN| NaN| NaN| 0.183173424892604,NaN,NaN,0.0190935529378031,0,0.218362454932586,0.0421303940425516,0,0.0831855418158521,0.0107132842716175,0.556814940052178,0.93260469362273
+

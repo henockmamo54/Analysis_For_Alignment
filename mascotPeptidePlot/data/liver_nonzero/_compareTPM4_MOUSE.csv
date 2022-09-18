@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+TPM4_MOUSE,IQALQQQADDAEDR,2,1
+TPM4_MOUSE,IQALQQQADDAEDR,2,2
+TPM4_MOUSE,IQALQQQADDAEDR,2,9
+TPM4_MOUSE,IQALQQQADDAEDR,2,24
+

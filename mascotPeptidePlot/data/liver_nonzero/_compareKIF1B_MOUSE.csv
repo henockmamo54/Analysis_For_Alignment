@@ -1,0 +1,8 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+KIF1B_MOUSE,DSVLTWLLR,2,0
+KIF1B_MOUSE,DSVLTWLLR,2,2
+KIF1B_MOUSE,DSVLTWLLR,2,6
+KIF1B_MOUSE,DSVLTWLLR,2,7
+KIF1B_MOUSE,DSVLTWLLR,2,9
+KIF1B_MOUSE,DSVLTWLLR,2,31
+

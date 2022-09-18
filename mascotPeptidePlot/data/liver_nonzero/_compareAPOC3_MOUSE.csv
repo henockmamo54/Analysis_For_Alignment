@@ -1,0 +1,5 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+APOC3_MOUSE,GWMDNHFR,3,6
+APOC3_MOUSE,GWMDNHFR,3,7
+APOC3_MOUSE,GWMDNHFR,3,13
+

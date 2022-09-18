@@ -1,0 +1,7 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+ACTBL_MOUSE,DDELTALVVDNGSGMcK,2,31
+ACTBL_MOUSE,DDELTALVVDNGSGmcK,2,6
+ACTBL_MOUSE,DDELTALVVDNGSGmcK,2,9
+ACTBL_MOUSE,DDELTALVVDNGSGmcK,2,13
+ACTBL_MOUSE,DDELTALVVDNGSGmcK,2,16
+

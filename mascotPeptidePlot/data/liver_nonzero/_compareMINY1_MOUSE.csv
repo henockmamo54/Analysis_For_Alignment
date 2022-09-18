@@ -1,0 +1,4 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+MINY1_MOUSE,ATSAETVESENHEALSGPEK,3,0
+MINY1_MOUSE,ATSAETVESENHEALSGPEK,3,1
+

@@ -1,0 +1,7 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+HNRL1_MOUSE,QNQFYETPVIK,2,1
+HNRL1_MOUSE,QNQFYETPVIK,2,2
+HNRL1_MOUSE,QNQFYETPVIK,2,7
+HNRL1_MOUSE,QNQFYETPVIK,2,9
+HNRL1_MOUSE,QNQFYETPVIK,2,16
+

@@ -1,0 +1,7 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+ABRX2_MOUSE,VSSVPNTSQSYAK,2,0
+ABRX2_MOUSE,VSSVPNTSQSYAK,2,2
+ABRX2_MOUSE,VSSVPNTSQSYAK,2,13
+ABRX2_MOUSE,VSSVPNTSQSYAK,2,16
+ABRX2_MOUSE,VSSVPNTSQSYAK,2,24
+

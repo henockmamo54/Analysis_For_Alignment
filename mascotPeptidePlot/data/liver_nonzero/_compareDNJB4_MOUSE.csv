@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+DNJB4_MOUSE,FGGSNPFEIFFGR,2,0
+DNJB4_MOUSE,FGGSNPFEIFFGR,2,1
+DNJB4_MOUSE,FGGSNPFEIFFGR,2,2
+DNJB4_MOUSE,FGGSNPFEIFFGR,2,9
+

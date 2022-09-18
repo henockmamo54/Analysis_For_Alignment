@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+RL39_MOUSE,QNRPIPQWIR,3,0
+RL39_MOUSE,QNRPIPQWIR,3,2
+RL39_MOUSE,PIPQWIR,2,2
+RL39_MOUSE,PIPQWIR,2,16
+

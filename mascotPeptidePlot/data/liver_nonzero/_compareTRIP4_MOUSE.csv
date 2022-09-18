@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+TRIP4_MOUSE,LAVLLPGR,2,2
+TRIP4_MOUSE,LAVLLPGR,2,6
+TRIP4_MOUSE,LAVLLPGR,2,7
+TRIP4_MOUSE,LAVLLPGR,2,31
+

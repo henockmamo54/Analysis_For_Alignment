@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+RL31_MOUSE,EMGTPDVR,2,2
+RL31_MOUSE,EMGTPDVR,2,9
+RL31_MOUSE,EMGTPDVR,2,24
+RL31_MOUSE,EMGTPDVR,2,31
+

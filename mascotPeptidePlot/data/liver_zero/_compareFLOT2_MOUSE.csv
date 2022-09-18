@@ -1,0 +1,7 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+FLOT2_MOUSE,VDYLSSLGK,2,2
+FLOT2_MOUSE,VDYLSSLGK,2,7
+FLOT2_MOUSE,VDYLSSLGK,2,9
+FLOT2_MOUSE,VDYLSSLGK,2,16
+FLOT2_MOUSE,VDYLSSLGK,2,24
+

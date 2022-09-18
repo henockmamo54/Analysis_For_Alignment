@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+HDGR3_MOUSE,YPIFFFGTHETAFLGPK,3,0
+HDGR3_MOUSE,YPIFFFGTHETAFLGPK,3,6
+HDGR3_MOUSE,YPIFFFGTHETAFLGPK,3,7
+HDGR3_MOUSE,YPIFFFGTHETAFLGPK,3,24
+

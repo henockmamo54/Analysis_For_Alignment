@@ -1,0 +1,3 @@
+proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
+RM48_MOUSE,VEESYAMPTK,2,0.52393644241187,0.745577951656353,3,0.07775,0.0263032534806473,20872070,577.7735,0.0318204048058636,2,0,1,0| 2| 6,NaN,,0.547117701752658| NaN| 0.476637876546268| NaN| 0.386273948651351| NaN| NaN| NaN| NaN| NaN| NaN| NaN,0.49483,0.202214906067434,0.0166027240388993,0,0.552399571359774,0.11031556604092,0,0.412963971035381,0.0779086745062353,0.995141547318699,0.998242500369422
+

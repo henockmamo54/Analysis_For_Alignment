@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+IST1_MOUSE,ELDSGLAESVSTLIWAAPR,3,9
+IST1_MOUSE,ELDSGLAESVSTLIWAAPR,2,6
+IST1_MOUSE,ELDSGLAESVSTLIWAAPR,2,13
+IST1_MOUSE,ELDSGLAESVSTLIWAAPR,2,21
+

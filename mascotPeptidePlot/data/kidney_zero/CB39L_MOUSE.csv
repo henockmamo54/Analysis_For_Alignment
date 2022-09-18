@@ -1,0 +1,3 @@
+proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
+CB39L_MOUSE,HNFTIMTK,2,NaN,NaN,1,1.25981,188079.060164802,13861610,496.25513,0.0317077088056038,NaN,NaN,NaN,NaNNaN,NaN,NaN,NaN,NaN,NaNNaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+

@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+TIM9_MOUSE,FQEYHIQQNEALAAK,3,0
+TIM9_MOUSE,FQEYHIQQNEALAAK,3,1
+TIM9_MOUSE,FQEYHIQQNEALAAK,3,2
+TIM9_MOUSE,FQEYHIQQNEALAAK,3,9
+

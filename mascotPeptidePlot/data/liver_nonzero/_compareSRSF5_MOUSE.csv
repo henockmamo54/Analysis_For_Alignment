@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+SRSF5_MOUSE,QAGEVTFADAHRPK,3,0
+SRSF5_MOUSE,QAGEVTFADAHRPK,3,1
+SRSF5_MOUSE,QAGEVTFADAHRPK,3,2
+SRSF5_MOUSE,QAGEVTFADAHRPK,3,3
+

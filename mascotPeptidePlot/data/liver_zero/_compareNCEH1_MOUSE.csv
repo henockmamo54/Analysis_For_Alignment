@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+NCEH1_MOUSE,LMLLDATFR,2,9
+NCEH1_MOUSE,LMLLDATFR,2,21
+NCEH1_MOUSE,LMLLDATFR,2,31
+NCEH1_MOUSE,LDWTSLLPSSIK,2,2
+

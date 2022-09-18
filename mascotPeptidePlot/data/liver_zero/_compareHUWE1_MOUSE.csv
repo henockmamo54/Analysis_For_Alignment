@@ -1,0 +1,8 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+HUWE1_MOUSE,LFGLLVK,2,0
+HUWE1_MOUSE,LFGLLVK,2,1
+HUWE1_MOUSE,LFGLLVK,2,7
+HUWE1_MOUSE,LFGLLVK,2,9
+HUWE1_MOUSE,LFGLLVK,2,16
+HUWE1_MOUSE,LFGLLVK,2,24
+

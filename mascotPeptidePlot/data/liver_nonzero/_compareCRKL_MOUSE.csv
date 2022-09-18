@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+CRKL_MOUSE,TALALEVGDIVK,2,6
+CRKL_MOUSE,TALALEVGDIVK,2,21
+CRKL_MOUSE,TALALEVGDIVK,2,24
+CRKL_MOUSE,TALALEVGDIVK,2,31
+

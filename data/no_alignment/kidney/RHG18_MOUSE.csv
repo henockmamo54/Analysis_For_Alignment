@@ -1,0 +1,3 @@
+proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
+RHG18_MOUSE,FLSQESGVAQTLK,2,0.915509112266487,0.977296050977751,3,0.10854,0.033026964586825,2040039,704.37756,0.023550146120209,0,2,1,0| 1| 21,NaN,,0.42721930722075| 0.386880858651398| NaN| NaN| NaN| NaN| NaN| NaN| NaN| 0.154522655228711| NaN| NaN,0.42721930722075,0.131606910148317,0.00905397664513183,0,0.943340370596283,0.19401992747971,0,0.532787749569635,0.0986014387441355,0.997335449367855,0.999469079656548
+

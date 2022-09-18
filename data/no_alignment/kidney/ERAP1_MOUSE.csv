@@ -1,0 +1,3 @@
+proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
+ERAP1_MOUSE,TQEFPHILTLIGR,3,0.33208560072536,0.318257678235644,2,0.0383,0.02845937855678,8348191.5,508.95593,0.0197170934115337,1,0,1,0| 3,NaN,,0.418645367881794| NaN| NaN| 0.384078530354516| NaN| NaN| NaN| NaN| NaN| NaN| NaN| NaN,0.418645367881794,0.148538410832903,0.00582591514984892,0,1.82423857841815,0.140556414406633,0,1.90665211908012,0.147042500722246,1,1
+

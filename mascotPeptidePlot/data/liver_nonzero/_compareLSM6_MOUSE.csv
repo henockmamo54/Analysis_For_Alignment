@@ -1,0 +1,5 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+LSM6_MOUSE,GVLAcLDGYMNIALEQTEEYVNGQLK,3,0
+LSM6_MOUSE,GVLAcLDGYMNIALEQTEEYVNGQLK,3,1
+LSM6_MOUSE,GVLAcLDGYMNIALEQTEEYVNGQLK,3,3
+

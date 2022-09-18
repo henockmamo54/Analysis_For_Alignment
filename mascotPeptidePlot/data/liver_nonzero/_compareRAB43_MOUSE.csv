@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+RAB43_MOUSE,YAGSNIVQLLIGNK,2,0
+RAB43_MOUSE,YAGSNIVQLLIGNK,2,1
+RAB43_MOUSE,YAGSNIVQLLIGNK,2,21
+RAB43_MOUSE,YAGSNIVQLLIGNK,2,24
+

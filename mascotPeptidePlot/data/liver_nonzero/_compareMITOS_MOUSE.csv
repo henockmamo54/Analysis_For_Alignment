@@ -1,0 +1,5 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+MITOS_MOUSE,GQVIGFISQEPVLFATTIMENIR,3,1
+MITOS_MOUSE,GQVIGFISQEPVLFATTIMENIR,3,2
+MITOS_MOUSE,GQVIGFISQEPVLFATTIMENIR,3,6
+

@@ -1,0 +1,4 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+MOT10_MOUSE,MLENQSSLLSGSSGIFK,2,6
+MOT10_MOUSE,MLENQSSLLSGSSGIFK,2,7
+

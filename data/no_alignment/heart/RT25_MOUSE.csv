@@ -1,0 +1,3 @@
+proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
+RT25_MOUSE,IMTVNYNTYGELGEGAR,2,-16.4409494214544,-1.14995882706215,3,7E-05,0.0335448908117325,1373869,944.44891,0.0620566122702863,2,1,0,0| 3| 7,NaN,,0.334895178637915| NaN| NaN| 0.406045685729062| NaN| 0.341171886993392| NaN| NaN| NaN| NaN| NaN| NaN,0.334895178637915,0.0854510036750949,0.0235802293987108,0,0.353917296119556,0.0822393342769722,0,0.134767408364855,0.0313056657892797,-2,-2
+

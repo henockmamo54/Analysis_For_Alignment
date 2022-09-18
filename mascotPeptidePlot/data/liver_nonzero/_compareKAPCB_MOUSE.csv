@@ -1,0 +1,7 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+KAPCB_MOUSE,ILQAVEFPFLVR,2,0
+KAPCB_MOUSE,ILQAVEFPFLVR,2,1
+KAPCB_MOUSE,ILQAVEFPFLVR,2,2
+KAPCB_MOUSE,ILQAVEFPFLVR,2,9
+KAPCB_MOUSE,ILQAVEFPFLVR,2,16
+

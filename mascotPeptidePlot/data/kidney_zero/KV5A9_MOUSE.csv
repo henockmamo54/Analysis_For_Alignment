@@ -1,0 +1,3 @@
+proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
+KV5A9_MOUSE,YASESISGIPSR,2,-0.15647187164159,-0.0713902605199708,3,12.79656,41434.7120764614,3108105,633.81982,0.0410133155007566,0,1,2,1| 16| 21,NaN,,NaN| 0.0801456521052661| NaN| NaN| NaN| NaN| NaN| NaN| 0.135926581384244| 0.222105964177116| NaN| NaN,NaN,NaN,0.0302224051996363,8.18550139835946,17.4076186016405,1.0716780765873,8.59550889427179,16.9976111057282,0.976386282974147,-2,-2
+

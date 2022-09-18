@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+PTPM1_MOUSE,GVITMNEEYETR,2,6
+PTPM1_MOUSE,GVITMNEEYETR,2,13
+PTPM1_MOUSE,IDHTVLLGALPLK,3,7
+PTPM1_MOUSE,IDHTVLLGALPLK,3,9
+

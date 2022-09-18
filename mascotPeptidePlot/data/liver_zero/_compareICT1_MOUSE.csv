@@ -1,0 +1,5 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+ICT1_MOUSE,AGELVLTSESSR,2,6
+ICT1_MOUSE,AGELVLTSESSR,2,9
+ICT1_MOUSE,QVDGTTFQSIYSLDK,2,2
+

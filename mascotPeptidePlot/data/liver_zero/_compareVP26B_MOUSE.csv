@@ -1,0 +1,5 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+VP26B_MOUSE,SMSHQAAIASQR,2,9
+VP26B_MOUSE,SMSHQAAIASQR,2,21
+VP26B_MOUSE,SMSHQAAIASQR,3,13
+

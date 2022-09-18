@@ -1,0 +1,3 @@
+proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
+K1C16_MOUSE,ASLENSLEETK,2,0.278265550370951,0.142505687619125,3,0.0121,0.00240089967639671,58186580,610.80383,0.0197192155008573,1,0,1,13| 21,NaN,0.0518565044017745|,NaN| NaN| NaN| NaN| NaN| NaN| NaN| 0.457875541498238| 0.503168407228071| 0.420021542552001| NaN| NaN,NaN,NaN,0.0157374541391969,0,0.0379540118070055,0.00600885393986087,0,0.0323171144586359,0.0046987557975229,0.840714282468439,0.566650213984853
+

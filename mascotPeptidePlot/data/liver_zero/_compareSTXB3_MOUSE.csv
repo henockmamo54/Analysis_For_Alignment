@@ -1,0 +1,8 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+STXB3_MOUSE,ALYFISPTPK,2,0
+STXB3_MOUSE,ALYFISPTPK,2,6
+STXB3_MOUSE,ALYFISPTPK,2,7
+STXB3_MOUSE,ALYFISPTPK,2,9
+STXB3_MOUSE,ALYFISPTPK,2,24
+STXB3_MOUSE,ALYFISPTPK,2,31
+

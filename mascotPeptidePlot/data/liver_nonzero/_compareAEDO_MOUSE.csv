@@ -1,0 +1,7 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+AEDO_MOUSE,EASGSAcDLPR,2,0
+AEDO_MOUSE,EASGSAcDLPR,2,1
+AEDO_MOUSE,EASGSAcDLPR,2,3
+AEDO_MOUSE,EASGSAcDLPR,2,7
+AEDO_MOUSE,EASGSAcDLPR,2,21
+

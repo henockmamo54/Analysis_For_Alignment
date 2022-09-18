@@ -1,0 +1,8 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+CAF17_MOUSE,VEGTTMLIR,2,1
+CAF17_MOUSE,VEGTTMLIR,2,2
+CAF17_MOUSE,VEGTTMLIR,2,3
+CAF17_MOUSE,VEGTTMLIR,2,7
+CAF17_MOUSE,VEGTTMLIR,2,13
+CAF17_MOUSE,VEGTTMLIR,2,16
+

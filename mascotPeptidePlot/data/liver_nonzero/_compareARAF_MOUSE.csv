@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+ARAF_MOUSE,FDMVQLIDVAR,2,0
+ARAF_MOUSE,FDMVQLIDVAR,2,1
+ARAF_MOUSE,FDMVQLIDVAR,2,2
+ARAF_MOUSE,FDMVQLIDVAR,2,3
+

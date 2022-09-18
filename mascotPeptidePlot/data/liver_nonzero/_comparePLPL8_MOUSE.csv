@@ -1,0 +1,5 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+PLPL8_MOUSE,EILALIGYVDPVK,2,0
+PLPL8_MOUSE,EILALIGYVDPVK,2,2
+PLPL8_MOUSE,EILALIGYVDPVK,2,6
+

@@ -1,0 +1,5 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+TIM23_MOUSE,NVQILNMVTR,2,6
+TIM23_MOUSE,NVQILNMVTR,2,7
+TIM23_MOUSE,NVQILNMVTR,2,24
+

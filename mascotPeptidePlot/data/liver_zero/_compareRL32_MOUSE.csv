@@ -1,0 +1,8 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+RL32_MOUSE,SYcAEIAHNVSSK,2,13
+RL32_MOUSE,GQILMPNIGYGSNK,2,2
+RL32_MOUSE,GQILMPNIGYGSNK,2,16
+RL32_MOUSE,GQILMPNIGYGSNK,2,31
+RL32_MOUSE,AAQLAIR,2,0
+RL32_MOUSE,AAQLAIR,2,3
+

@@ -1,0 +1,3 @@
+proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
+EGFR_MOUSE,IPLENLQIIR,2,-0.0459090280848999,-2612.62243935471,2,9.00213,520.747480567389,0,604.8717,0.0190697148744007,1,0,0,2,NaN,,NaN| 0.154047707513045| 0.155428309723791| NaN| NaN| NaN| NaN| NaN| NaN| NaN| NaN| NaN,NaN,NaN,0.0144073586920444,0,25.4758231819084,1.29650777113226,0,25.0552912115568,1.263411187291,-2,-2
+

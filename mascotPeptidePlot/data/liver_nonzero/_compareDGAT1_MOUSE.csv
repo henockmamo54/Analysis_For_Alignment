@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+DGAT1_MOUSE,YGILVDPIQVVSLFLK,2,1
+DGAT1_MOUSE,YGILVDPIQVVSLFLK,2,24
+DGAT1_MOUSE,VSGAAAQQAVSYPDNLTYR,2,1
+DGAT1_MOUSE,VSGAAAQQAVSYPDNLTYR,2,7
+

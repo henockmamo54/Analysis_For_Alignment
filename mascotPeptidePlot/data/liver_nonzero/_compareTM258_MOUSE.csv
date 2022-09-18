@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+TM258_MOUSE,MELEAMSR,2,6
+TM258_MOUSE,MELEAMSR,2,9
+TM258_MOUSE,MELEAMSR,2,13
+TM258_MOUSE,MELEAMSR,2,16
+

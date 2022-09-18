@@ -1,0 +1,7 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+ST1C2_MOUSE,NHFTVAQNER,3,0
+ST1C2_MOUSE,NHFTVAQNER,3,1
+ST1C2_MOUSE,NHFTVAQNER,3,3
+ST1C2_MOUSE,NHFTVAQNER,3,9
+ST1C2_MOUSE,NHFTVAQNER,3,31
+

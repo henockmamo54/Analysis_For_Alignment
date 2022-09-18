@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+SAP18_MOUSE,GNVPSSELQIYTWMDATLK,2,0
+SAP18_MOUSE,GNVPSSELQIYTWMDATLK,2,1
+SAP18_MOUSE,GNVPSSELQIYTWMDATLK,2,3
+SAP18_MOUSE,GNVPSSELQIYTWMDATLK,2,7
+

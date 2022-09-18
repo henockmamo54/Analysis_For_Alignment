@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+UBA6_MOUSE,DLSVNSLMDILSEVK,2,0
+UBA6_MOUSE,DLSVNSLMDILSEVK,2,1
+UBA6_MOUSE,DLSVNSLMDILSEVK,2,2
+UBA6_MOUSE,DLSVNSLMDILSEVK,2,3
+

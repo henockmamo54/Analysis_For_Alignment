@@ -1,0 +1,9 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+UD12_MOUSE,GDFVLDYPR,2,2
+UD12_MOUSE,GDFVLDYPR,2,3
+UD12_MOUSE,GDFVLDYPR,2,6
+UD12_MOUSE,GDFVLDYPR,2,7
+UD12_MOUSE,GDFVLDYPR,2,9
+UD12_MOUSE,GDFVLDYPR,2,16
+UD12_MOUSE,GDFVLDYPR,2,24
+

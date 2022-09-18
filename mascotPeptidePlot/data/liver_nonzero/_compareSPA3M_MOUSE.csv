@@ -1,0 +1,5 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+SPA3M_MOUSE,FSDDTWGIDILLHK,3,2
+SPA3M_MOUSE,FSDDTWGIDILLHK,3,13
+SPA3M_MOUSE,FSDDTWGIDILLHK,3,21
+

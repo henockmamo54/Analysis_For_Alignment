@@ -1,0 +1,8 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+MITOK_MOUSE,DLQDLMMDLR,2,2
+MITOK_MOUSE,DLQDLMMDLR,2,6
+MITOK_MOUSE,DLQDLMMDLR,2,13
+MITOK_MOUSE,DLQDLMMDLR,2,21
+MITOK_MOUSE,DLQDLMMDLR,2,24
+MITOK_MOUSE,DLQDLMMDLR,2,31
+

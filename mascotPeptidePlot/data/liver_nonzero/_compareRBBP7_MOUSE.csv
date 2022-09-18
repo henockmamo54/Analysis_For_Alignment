@@ -1,0 +1,7 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+RBBP7_MOUSE,HPAKPDPSGEcNPDLR,3,0
+RBBP7_MOUSE,HPAKPDPSGEcNPDLR,3,2
+RBBP7_MOUSE,HPAKPDPSGEcNPDLR,3,3
+RBBP7_MOUSE,HPAKPDPSGEcNPDLR,3,13
+RBBP7_MOUSE,LNVWDLSK,2,13
+

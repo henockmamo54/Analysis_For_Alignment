@@ -1,0 +1,3 @@
+proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
+OSBP1_MOUSE,ITSNAMINAcR,2,-5.25410607173962,0.920222605623123,3,0.02882,0.00706372078937877,63327080,625.80261,0.0382362327421632,0,1,1,1| 31,NaN,,NaN| 0.464288620392256| NaN| NaN| NaN| NaN| NaN| NaN| NaN| NaN| 0.323315764458558| 0.327975400736215,NaN,NaN,0.00923390961125248,0,0.0836223275272576,0.0127368697799728,0.0108413959706239,0.0467986040293761,0.00417849293415433,0.192382122545332,0.983615461779092
+

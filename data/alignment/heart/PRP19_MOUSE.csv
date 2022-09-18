@@ -1,0 +1,3 @@
+proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
+PRP19_MOUSE,VTSVVFHPSQELVFSASPDATIR,3,0.892341740179865,0.993781175753254,2,0.13425,0.0141013320944616,1606672,829.76746,0.00766825750339272,0,0,1,0,NaN,,0.239688274005297| NaN| NaN| NaN| NaN| NaN| 0.0903556035480974| NaN| NaN| NaN| NaN| NaN,0.239688274005297,0.0301739213433784,0.00240382779324988,0,0.811276404540337,0.053283133603111,0,0.715753884924501,0.0457653482690929,1,1
+

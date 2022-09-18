@@ -1,0 +1,3 @@
+proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
+SC22B_MOUSE,GEALSALDSK,2,-4.07927905898296,0.912367762067785,3,0.90799,0.698533558240716,54638616.6666667,495.75873,0.0847046348353622,0,0,2,9| 31,NaN,,NaN| NaN| 0.268279006045456| NaN| NaN| NaN| 0.204007516881752| NaN| NaN| NaN| NaN| 0.187285473423941,NaN,NaN,0.00516763700429102,0,25.2487105426071,5.65714271438006,0.458847636250696,1.3571323637493,0.104387314515039,-0.872983144688611,0.980989984012979
+

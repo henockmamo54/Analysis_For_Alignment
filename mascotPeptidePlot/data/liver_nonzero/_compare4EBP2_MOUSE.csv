@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+4EBP2_MOUSE,VEVNNLNNLNNHDR,3,1
+4EBP2_MOUSE,VEVNNLNNLNNHDR,3,3
+4EBP2_MOUSE,VEVNNLNNLNNHDR,3,7
+4EBP2_MOUSE,VEVNNLNNLNNHDR,3,21
+

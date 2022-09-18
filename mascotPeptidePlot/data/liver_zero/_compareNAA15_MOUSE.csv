@@ -1,0 +1,7 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+NAA15_MOUSE,LEDAADVYR,2,1
+NAA15_MOUSE,LEDAADVYR,2,2
+NAA15_MOUSE,LEDAADVYR,2,3
+NAA15_MOUSE,LEDAADVYR,2,13
+NAA15_MOUSE,LEDAADVYR,2,21
+

@@ -1,0 +1,8 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+CYBP_MOUSE,ISNYGWDQSDK,2,9
+CYBP_MOUSE,ISNYGWDQSDK,2,21
+CYBP_MOUSE,ISNYGWDQSDK,2,24
+CYBP_MOUSE,ISNYGWDQSDK,2,31
+CYBP_MOUSE,SFDLLVK,2,0
+CYBP_MOUSE,SFDLLVK,2,1
+

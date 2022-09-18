@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+TR112_MOUSE,INPVEFNPEFVAR,2,0
+TR112_MOUSE,INPVEFNPEFVAR,2,1
+TR112_MOUSE,INPVEFNPEFVAR,2,13
+TR112_MOUSE,INPVEFNPEFVAR,2,31
+

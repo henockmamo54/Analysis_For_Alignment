@@ -1,0 +1,7 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+CSN5_MOUSE,TTIEAIHGLMSQVIK,3,0
+CSN5_MOUSE,TTIEAIHGLMSQVIK,3,1
+CSN5_MOUSE,TTIEAIHGLMSQVIK,3,2
+CSN5_MOUSE,TTIEAIHGLMSQVIK,3,3
+CSN5_MOUSE,TTIEAIHGLMSQVIK,3,9
+

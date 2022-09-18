@@ -1,0 +1,5 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+TIM21_MOUSE,THPEVIGVFGEPLK,3,1
+TIM21_MOUSE,THPEVIGVFGEPLK,3,3
+TIM21_MOUSE,THPEVIGVFGEPLK,3,6
+

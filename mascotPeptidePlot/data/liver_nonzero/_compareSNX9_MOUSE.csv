@@ -1,0 +1,5 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+SNX9_MOUSE,SYIEYQLTPTNTNR,2,1
+SNX9_MOUSE,SYIEYQLTPTNTNR,2,3
+SNX9_MOUSE,SYIEYQLTPTNTNR,2,21
+

@@ -1,0 +1,7 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+GELS_MOUSE,HVVPNEVVVQR,3,7
+GELS_MOUSE,HVVPNEVVVQR,3,9
+GELS_MOUSE,HVVPNEVVVQR,3,16
+GELS_MOUSE,HVVPNEVVVQR,3,21
+GELS_MOUSE,HVVPNEVVVQR,3,24
+

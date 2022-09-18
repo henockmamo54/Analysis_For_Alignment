@@ -1,0 +1,3 @@
+proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
+BGH3_MOUSE,YLYSGQTLDTLGGK,2,-1.39168084454948,-2.16825871842944,5,9.81331,4201.5364140639,13612659.8,758.38812,0.054096484450308,1,4,0,1| 2| 7| 9| 13,NaN,,NaN| 0.1323771919946| 0.159453122840892| NaN| NaN| 0.163790830163041| 0.16379128578075| 0.167870918430576| NaN| NaN| NaN| NaN,NaN,NaN,0.0147288494197528,6.65079701583046,12.9758229841695,1.13905114793436,7.88217779894688,11.7444422010531,0.695541286765714,-2,-2
+

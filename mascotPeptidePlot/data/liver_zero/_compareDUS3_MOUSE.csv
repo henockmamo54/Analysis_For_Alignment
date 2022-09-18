@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+DUS3_MOUSE,VYVGNASVAQDITQLQK,2,1
+DUS3_MOUSE,VYVGNASVAQDITQLQK,2,9
+DUS3_MOUSE,EIGPNDGFLAQLcQLNDR,2,3
+DUS3_MOUSE,EIGPNDGFLAQLcQLNDR,2,9
+

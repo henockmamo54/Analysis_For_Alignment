@@ -1,0 +1,3 @@
+proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
+SYFB_MOUSE,TPGFEIIHGLLDR,3,-0.4873032141547,-1.24867295299952,3,0.00146,0.0593049252572217,4746816,489.93668,0.0573241010439696,0,1,1,0| 3,NaN,,0.505844286096063| NaN| 0.448785427609644| 0.418071116764006| NaN| NaN| NaN| NaN| NaN| NaN| NaN| NaN,0.41715,0.148007843470135,0.0272674152822889,0,0.633081431164872,0.146798143107802,0,0.306540829782979,0.0709052877248532,0.997677289178915,0.99981791934109
+

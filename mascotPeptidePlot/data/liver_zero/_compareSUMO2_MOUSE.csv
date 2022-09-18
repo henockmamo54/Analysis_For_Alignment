@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+SUMO2_MOUSE,VAGQDGSVVQFK,2,13
+SUMO2_MOUSE,VAGQDGSVVQFK,2,16
+SUMO2_MOUSE,TENNDHINLK,2,0
+SUMO2_MOUSE,TENNDHINLK,2,21
+

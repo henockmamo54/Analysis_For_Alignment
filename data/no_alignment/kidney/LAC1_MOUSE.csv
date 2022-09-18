@@ -1,0 +1,3 @@
+proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
+LAC1_MOUSE,YMASSYLTLTAR,2,-0.0746393651726756,0.929271960880026,3,0.08574,0.0112455844785922,2885500.33333333,688.84753,0.0169743489256034,0,0,1,21,NaN,,NaN| NaN| NaN| NaN| NaN| NaN| NaN| NaN| 0.232142732063704| 0.20399169300548| NaN| 0.190047706059183,NaN,NaN,0.00232816141848051,0,0.202680210359697,0.027178630883027,0.0694839915809652,0.101996008419035,0.00377813628941953,0.506745959359936,0.977300619176717
+

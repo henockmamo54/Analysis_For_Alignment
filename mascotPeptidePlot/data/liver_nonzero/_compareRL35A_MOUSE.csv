@@ -1,0 +1,8 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+RL35A_MOUSE,AIFAGYK,2,1
+RL35A_MOUSE,AIFAGYK,2,2
+RL35A_MOUSE,AIFAGYK,2,3
+RL35A_MOUSE,AIFAGYK,2,6
+RL35A_MOUSE,AIFAGYK,2,9
+RL35A_MOUSE,AIFAGYK,2,13
+

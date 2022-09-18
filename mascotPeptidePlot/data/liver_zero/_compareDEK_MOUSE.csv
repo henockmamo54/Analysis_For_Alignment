@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+DEK_MOUSE,SIcEVLDLER,2,2
+DEK_MOUSE,SIcEVLDLER,2,3
+DEK_MOUSE,SIcEVLDLER,2,16
+DEK_MOUSE,EVYENYPAYDLTER,2,31
+

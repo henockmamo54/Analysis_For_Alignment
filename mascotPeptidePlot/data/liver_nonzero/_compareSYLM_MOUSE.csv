@@ -1,0 +1,5 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+SYLM_MOUSE,LAQGLIKGQTFR,2,6
+SYLM_MOUSE,LAQGLIKGQTFR,2,13
+SYLM_MOUSE,LAQGLIKGQTFR,2,16
+

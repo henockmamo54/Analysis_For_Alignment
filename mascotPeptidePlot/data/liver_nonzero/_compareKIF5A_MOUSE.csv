@@ -1,0 +1,7 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+KIF5A_MOUSE,HVAVTNMNEHSSR,3,3
+KIF5A_MOUSE,HVAVTNMNEHSSR,3,6
+KIF5A_MOUSE,HVAVTNMNEHSSR,3,16
+KIF5A_MOUSE,HVAVTNMNEHSSR,3,21
+KIF5A_MOUSE,HVAVTNMNEHSSR,3,24
+

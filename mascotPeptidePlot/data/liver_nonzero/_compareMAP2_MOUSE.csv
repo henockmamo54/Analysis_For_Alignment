@@ -1,0 +1,9 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+MAP2_MOUSE,YDILLTAVK,2,0
+MAP2_MOUSE,YDILLTAVK,2,2
+MAP2_MOUSE,YDILLTAVK,2,6
+MAP2_MOUSE,YDILLTAVK,2,7
+MAP2_MOUSE,YDILLTAVK,2,9
+MAP2_MOUSE,YDILLTAVK,2,24
+MAP2_MOUSE,YDILLTAVK,2,31
+

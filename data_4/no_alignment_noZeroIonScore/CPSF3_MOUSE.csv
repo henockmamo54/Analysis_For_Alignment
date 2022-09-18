@@ -1,0 +1,3 @@
+proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
+CPSF3_MOUSE,GLIPVFALGR,2,-0.181000712308785,0.990675405980446,2,0.10777,0.019707606546375,2427500,521.82404,0.0187743130950719,0,1,0,0,NaN,,0.516341302672331| NaN| NaN| NaN| NaN| 0.375636314831376| NaN| NaN| NaN| NaN| NaN| NaN,0.516341302672331,0.23184823000517,0.00277344040478392,0,0.90376661002281,0.0626462918359367,0,0.269635923035525,0.0127391244197462,1,1
+

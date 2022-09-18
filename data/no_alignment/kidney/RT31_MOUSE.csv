@@ -1,0 +1,3 @@
+proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
+RT31_MOUSE,VDLSTANVK,2,0.883743612112336,0.901907208248908,2,0.08179,0.00792480502804452,12096550,473.76382,0.00930386794861103,0,0,1,2,NaN,,NaN| NaN| 0.531859197896168| NaN| NaN| NaN| 0.445954742395526| NaN| NaN| NaN| NaN| NaN,NaN,NaN,0.00549197581426411,0,1.32027912725004,0.0974712081991368,0,0.784346107380353,0.0552923647913626,1,1
+

@@ -1,0 +1,3 @@
+proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
+TYRP2_MOUSE,APLmETGLSSK,2,-0.487682065346671,-0.0106322753839525,3,5.76771,13289.4472984711,5252548,575.29462,0.0800631066491585,0,2,1,2| 6| 9,NaN,,NaN| NaN| 0.175994282045639| NaN| 0.242502468819855| NaN| 0.181362075916292| NaN| NaN| NaN| NaN| NaN,NaN,NaN,0.0151633524638957,1.8294521128206,9.70596788717939,0.915309260250041,3.97612872826753,7.55929127173246,0.416389930645639,-2,-2
+

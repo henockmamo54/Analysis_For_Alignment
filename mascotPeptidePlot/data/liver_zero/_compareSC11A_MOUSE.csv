@@ -1,0 +1,4 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+SC11A_MOUSE,GDLLFLTNR,2,9
+SC11A_MOUSE,MLSLDFLDDVR,2,21
+

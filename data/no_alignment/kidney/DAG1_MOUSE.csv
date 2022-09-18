@@ -1,0 +1,3 @@
+proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
+DAG1_MOUSE,PAFSNALEPDFK,2,-1.15503610080416,-1.15503610080416,2,0.02136,0.0718255958135694,15566575,668.33258,0.0664319092488203,0,0,0,,NaN,,NaN| 0.212022614065891| NaN| 0.433717196407843| NaN| NaN| NaN| NaN| NaN| NaN| NaN| NaN,NaN,NaN,0.0664319092488203,0,2.29008402608783,0.178552453168647,0,2.29008402608783,0.178552453168647,-1,-1
+

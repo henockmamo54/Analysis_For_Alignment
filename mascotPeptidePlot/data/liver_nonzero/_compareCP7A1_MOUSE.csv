@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+CP7A1_MOUSE,FGSNPLEFLR,2,0
+CP7A1_MOUSE,FGSNPLEFLR,2,1
+CP7A1_MOUSE,FGSNPLEFLR,2,2
+CP7A1_MOUSE,FGSNPLEFLR,2,9
+

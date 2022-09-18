@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+AP3B1_MOUSE,EGSTAQLIINTEK,2,0
+AP3B1_MOUSE,EGSTAQLIINTEK,2,2
+AP3B1_MOUSE,ASILWLIGENcER,2,0
+AP3B1_MOUSE,ASILWLIGENcER,2,24
+

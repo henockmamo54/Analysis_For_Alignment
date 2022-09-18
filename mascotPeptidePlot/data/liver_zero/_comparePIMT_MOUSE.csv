@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+PIMT_MOUSE,LILPVGPAGGNQMLEQYDK,2,1
+PIMT_MOUSE,SGGASHSELIHNLR,3,0
+PIMT_MOUSE,SGGASHSELIHNLR,3,6
+PIMT_MOUSE,SGGASHSELIHNLR,3,13
+

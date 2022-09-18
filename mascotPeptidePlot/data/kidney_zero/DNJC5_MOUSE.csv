@@ -1,0 +1,3 @@
+proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
+DNJC5_MOUSE,EINNAHAILTDATK,2,-0.738820040428984,-0.0301839121759502,3,0.00028,0.00342318880902923,618656,755.89661,0.0226100009685086,0,1,1,2| 3,NaN,,NaN| NaN| 0.450417965973326| 0.391183399581983| NaN| NaN| NaN| NaN| NaN| 0.440934823886446| NaN| NaN,NaN,NaN,0.0131837454210946,0,0.0358924769995281,0.00827686528203856,0,0.0216179717851645,0.00495925958365902,-0.939123033719201,-0.321312776478172
+

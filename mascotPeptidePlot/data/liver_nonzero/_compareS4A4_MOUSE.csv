@@ -1,0 +1,8 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+S4A4_MOUSE,LLLMPLK,2,1
+S4A4_MOUSE,LLLMPLK,2,6
+S4A4_MOUSE,LLLMPLK,2,7
+S4A4_MOUSE,LLLMPLK,2,13
+S4A4_MOUSE,LLLMPLK,2,16
+S4A4_MOUSE,LLLMPLK,2,24
+

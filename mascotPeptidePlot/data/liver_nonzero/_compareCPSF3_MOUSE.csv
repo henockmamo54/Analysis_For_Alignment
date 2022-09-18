@@ -1,0 +1,5 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+CPSF3_MOUSE,GLIPVFALGR,2,0
+CPSF3_MOUSE,GLIPVFALGR,2,1
+CPSF3_MOUSE,GLIPVFALGR,2,7
+

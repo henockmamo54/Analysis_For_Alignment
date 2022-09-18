@@ -1,0 +1,7 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+SNX6_MOUSE,VAAHPILR,2,0
+SNX6_MOUSE,VAAHPILR,2,1
+SNX6_MOUSE,VAAHPILR,2,2
+SNX6_MOUSE,VAAHPILR,2,21
+SNX6_MOUSE,VAAHPILR,2,24
+

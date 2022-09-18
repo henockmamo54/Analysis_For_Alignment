@@ -1,0 +1,8 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+WBP2_MOUSE,GTVYLTPYR,2,0
+WBP2_MOUSE,GTVYLTPYR,2,1
+WBP2_MOUSE,GTVYLTPYR,2,9
+WBP2_MOUSE,GTVYLTPYR,2,13
+WBP2_MOUSE,GTVYLTPYR,2,16
+WBP2_MOUSE,GTVYLTPYR,2,21
+

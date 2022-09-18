@@ -1,0 +1,5 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+CMLO1_MOUSE,cLQTDMVDITK,2,1
+CMLO1_MOUSE,cLQTDMVDITK,2,24
+CMLO1_MOUSE,GMEEYIPSTFR,2,13
+

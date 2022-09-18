@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+RT17_MOUSE,LVLDPYLLK,2,0
+RT17_MOUSE,LVLDPYLLK,2,1
+RT17_MOUSE,LVLDPYLLK,2,7
+RT17_MOUSE,LVLDPYLLK,2,16
+

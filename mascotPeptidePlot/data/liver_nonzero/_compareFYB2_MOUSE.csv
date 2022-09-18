@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+FYB2_MOUSE,LFPEDVTL,2,2
+FYB2_MOUSE,LFPEDVTL,2,7
+FYB2_MOUSE,LFPEDVTL,2,9
+FYB2_MOUSE,LFPEDVTL,2,24
+

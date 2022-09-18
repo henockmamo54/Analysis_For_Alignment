@@ -1,0 +1,7 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+CSK2B_MOUSE,FNLTGLNEQVPHYR,3,0
+CSK2B_MOUSE,FNLTGLNEQVPHYR,3,1
+CSK2B_MOUSE,FNLTGLNEQVPHYR,3,2
+CSK2B_MOUSE,FNLTGLNEQVPHYR,3,3
+CSK2B_MOUSE,FNLTGLNEQVPHYR,3,24
+

@@ -1,0 +1,8 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+G3BP2_MOUSE,AFSWASVTSK,2,3
+G3BP2_MOUSE,AFSWASVTSK,2,6
+G3BP2_MOUSE,AFSWASVTSK,2,7
+G3BP2_MOUSE,AFSWASVTSK,2,21
+G3BP2_MOUSE,AFSWASVTSK,2,31
+G3BP2_MOUSE,VDAKPEVQSQPPR,3,2
+

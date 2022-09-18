@@ -1,0 +1,8 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+FNTA_MOUSE,ALELcEILAK,2,0
+FNTA_MOUSE,ALELcEILAK,2,1
+FNTA_MOUSE,ALELcEILAK,2,2
+FNTA_MOUSE,ALELcEILAK,2,7
+FNTA_MOUSE,DPSQELEFIADILSQDAK,3,0
+FNTA_MOUSE,DPSQELEFIADILSQDAK,3,1
+

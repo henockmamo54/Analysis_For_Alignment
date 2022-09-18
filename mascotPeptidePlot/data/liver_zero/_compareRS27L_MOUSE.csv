@@ -1,0 +1,8 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+RS27L_MOUSE,LTEGcSFR,2,1
+RS27L_MOUSE,LTEGcSFR,2,2
+RS27L_MOUSE,ITTVFSHAQTVVL,2,2
+RS27L_MOUSE,ITTVFSHAQTVVL,2,7
+RS27L_MOUSE,ITTVFSHAQTVVL,2,9
+RS27L_MOUSE,ITTVFSHAQTVVL,2,13
+

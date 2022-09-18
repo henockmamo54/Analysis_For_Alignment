@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+ENPP3_MOUSE,MWDYFHEVLLIK,3,1
+ENPP3_MOUSE,MWDYFHEVLLIK,3,2
+ENPP3_MOUSE,MWDYFHEVLLIK,3,7
+ENPP3_MOUSE,MWDYFHEVLLIK,3,16
+

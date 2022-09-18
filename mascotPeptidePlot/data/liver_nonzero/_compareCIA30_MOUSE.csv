@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+CIA30_MOUSE,LSYDWSQFNTLYLR,2,0
+CIA30_MOUSE,LSYDWSQFNTLYLR,2,3
+CIA30_MOUSE,LSYDWSQFNTLYLR,2,13
+CIA30_MOUSE,LSYDWSQFNTLYLR,2,16
+

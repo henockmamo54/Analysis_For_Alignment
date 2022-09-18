@@ -1,0 +1,7 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+LTMD1_MOUSE,SHSEVITHLR,3,1
+LTMD1_MOUSE,SHSEVITHLR,3,31
+LTMD1_MOUSE,SHTTVIHQLDR,3,13
+LTMD1_MOUSE,SHTTVIHQLDR,3,16
+LTMD1_MOUSE,SHTTVIHQLDR,3,24
+

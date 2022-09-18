@@ -1,0 +1,4 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+K1C42_MOUSE,DAEEWFFTK,2,0
+K1C42_MOUSE,DAEEWFFTK,2,13
+

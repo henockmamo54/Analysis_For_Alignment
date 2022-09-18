@@ -1,0 +1,5 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+GOGA2_MOUSE,LLELQELVLR,2,1
+GOGA2_MOUSE,LLELQELVLR,2,7
+GOGA2_MOUSE,LLELQELVLR,2,21
+

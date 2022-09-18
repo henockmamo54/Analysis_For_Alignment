@@ -1,0 +1,7 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+RN114_MOUSE,YTFPcPYcPEK,2,2
+RN114_MOUSE,QIESIETScHGcR,3,0
+RN114_MOUSE,QIESIETScHGcR,3,3
+RN114_MOUSE,QIESIETScHGcR,3,6
+RN114_MOUSE,QIESIETScHGcR,3,24
+

@@ -1,0 +1,9 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+GAR1_MOUSE,FQDQGPPER,2,0
+GAR1_MOUSE,FQDQGPPER,2,1
+GAR1_MOUSE,FQDQGPPER,2,2
+GAR1_MOUSE,FQDQGPPER,2,3
+GAR1_MOUSE,FQDQGPPER,2,6
+GAR1_MOUSE,FQDQGPPER,2,7
+GAR1_MOUSE,FQDQGPPER,2,13
+

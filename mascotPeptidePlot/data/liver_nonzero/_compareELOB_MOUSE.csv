@@ -1,0 +1,8 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+ELOB_MOUSE,ESSTVFELK,2,0
+ELOB_MOUSE,ESSTVFELK,2,1
+ELOB_MOUSE,ESSTVFELK,2,6
+ELOB_MOUSE,ESSTVFELK,2,7
+ELOB_MOUSE,TLGEcGFTSQTAR,2,24
+ELOB_MOUSE,TLGEcGFTSQTAR,2,31
+

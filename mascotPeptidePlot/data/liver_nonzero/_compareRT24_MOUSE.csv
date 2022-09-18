@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+RT24_MOUSE,TLEDVFLR,2,1
+RT24_MOUSE,TLEDVFLR,2,13
+RT24_MOUSE,TLEDVFLR,2,16
+RT24_MOUSE,TLEDVFLR,2,24
+

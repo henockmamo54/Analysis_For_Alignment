@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+RS28_MOUSE,EGDVLTLLESER,2,13
+RS28_MOUSE,EGDVLTLLESER,2,16
+RS28_MOUSE,EGDVLTLLESER,2,21
+RS28_MOUSE,EGDVLTLLESER,2,31
+

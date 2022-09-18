@@ -1,0 +1,7 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+GNAS1_MOUSE,SNEYQLIDcAQYFLDK,2,24
+GNAS1_MOUSE,ALWEDEGVR,2,0
+GNAS1_MOUSE,ALWEDEGVR,2,6
+GNAS1_MOUSE,ALWEDEGVR,2,7
+GNAS1_MOUSE,ALWEDEGVR,2,31
+

@@ -1,0 +1,5 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA,min_kl,min_kl_decoy
+EGFR_MOUSE,IPLENLQIIR,2,3,100,NaN,100,NaN,NaN,NaN,NaN,NaN,0.190003258532509,0,0
+EGFR_MOUSE,IPLENLQIIR,2,6,100,NaN,100,NaN,NaN,NaN,NaN,NaN,0.190003258531954,0,0
+EGFR_MOUSE,IPLENLQIIR,2,13,100,NaN,100,NaN,NaN,NaN,NaN,NaN,0.190003258531954,0,0
+

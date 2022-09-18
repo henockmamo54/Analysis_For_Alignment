@@ -1,0 +1,7 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+GALD1_MOUSE,LPLIVEDFVK,2,1
+GALD1_MOUSE,LPLIVEDFVK,2,2
+GALD1_MOUSE,LPLIVEDFVK,2,3
+GALD1_MOUSE,LPLIVEDFVK,2,6
+GALD1_MOUSE,LPLIVEDFVK,2,7
+

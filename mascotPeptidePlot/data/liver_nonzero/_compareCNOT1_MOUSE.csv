@@ -1,0 +1,8 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+CNOT1_MOUSE,SLDLIESLLR,2,2
+CNOT1_MOUSE,SLDLIESLLR,2,3
+CNOT1_MOUSE,SLDLIESLLR,2,6
+CNOT1_MOUSE,SLDLIESLLR,2,9
+CNOT1_MOUSE,SLDLIESLLR,2,16
+CNOT1_MOUSE,SLDLIESLLR,2,24
+

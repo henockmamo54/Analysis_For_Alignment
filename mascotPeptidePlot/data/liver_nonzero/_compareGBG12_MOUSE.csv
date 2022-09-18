@@ -1,0 +1,7 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+GBG12_MOUSE,ASADLMSYcEEHAR,3,0
+GBG12_MOUSE,ASADLMSYcEEHAR,3,6
+GBG12_MOUSE,TASTNSIAQAR,2,6
+GBG12_MOUSE,TASTNSIAQAR,2,9
+GBG12_MOUSE,TASTNSIAQAR,2,21
+

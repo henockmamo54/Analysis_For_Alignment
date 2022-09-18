@@ -1,0 +1,7 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+ERH_MOUSE,ADTQTYQPYNK,2,7
+ERH_MOUSE,ADTQTYQPYNK,2,9
+ERH_MOUSE,TYADYESVNEcMEGVcK,2,1
+ERH_MOUSE,TYADYESVNEcMEGVcK,2,2
+ERH_MOUSE,TYADYESVNEcMEGVcK,2,3
+

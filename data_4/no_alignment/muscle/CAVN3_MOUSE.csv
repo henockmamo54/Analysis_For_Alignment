@@ -1,0 +1,3 @@
+proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
+CAVN3_MOUSE,LATMLEALR,2,-0.209607854873616,-3.23173008411228,5,0.22541,0.125429448925833,1866632.4,509.29169,0.102302473401109,1,1,1,2| 7| 13,NaN,,NaN| 0.249978567611953| 0.425726967204808| 0.381982743487199| NaN| 0.360624869316979| NaN| 0.394837761313619| NaN| NaN| NaN| NaN,NaN,NaN,0.0798651235055383,0,0.760687634245998,0.192792442846396,0,0.594620343174014,0.132979522084724,0.126451149228095,-0.467788926740931
+

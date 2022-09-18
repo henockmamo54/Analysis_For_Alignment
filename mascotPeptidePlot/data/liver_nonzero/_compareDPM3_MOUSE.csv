@@ -1,0 +1,8 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+DPM3_MOUSE,ELQSQIVEAR,2,0
+DPM3_MOUSE,ELQSQIVEAR,2,3
+DPM3_MOUSE,ELQSQIVEAR,2,6
+DPM3_MOUSE,ELQSQIVEAR,2,9
+DPM3_MOUSE,ELQSQIVEAR,2,21
+DPM3_MOUSE,ELQSQIVEAR,2,31
+

@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+VPS25_MOUSE,KLPVESIQIVLEELR,3,0
+VPS25_MOUSE,KLPVESIQIVLEELR,3,7
+VPS25_MOUSE,KLPVESIQIVLEELR,3,9
+VPS25_MOUSE,KLPVESIQIVLEELR,3,24
+

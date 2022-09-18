@@ -1,0 +1,5 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+MTA2_MOUSE,VGDYVYFENSSSNPYLVR,2,0
+MTA2_MOUSE,VGDYVYFENSSSNPYLVR,2,9
+MTA2_MOUSE,VGDYVYFENSSSNPYLVR,2,16
+

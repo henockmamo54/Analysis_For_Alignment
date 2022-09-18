@@ -1,0 +1,5 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+ALG5_MOUSE,QLSVVVPSYNEEK,2,1
+ALG5_MOUSE,QLSVVVPSYNEEK,2,2
+ALG5_MOUSE,LPVMMDEALNYLEK,2,16
+

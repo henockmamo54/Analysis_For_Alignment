@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+LRBA_MOUSE,WHHEYQTR,3,0
+LRBA_MOUSE,WHHEYQTR,3,3
+LRBA_MOUSE,HGAWGSSAVSR,2,1
+LRBA_MOUSE,HGAWGSSAVSR,2,3
+

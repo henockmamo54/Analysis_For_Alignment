@@ -1,0 +1,7 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+SNP47_MOUSE,NVVFNVIEHFWR,3,0
+SNP47_MOUSE,NVVFNVIEHFWR,3,1
+SNP47_MOUSE,NVVFNVIEHFWR,3,2
+SNP47_MOUSE,NVVFNVIEHFWR,3,7
+SNP47_MOUSE,NVVFNVIEHFWR,3,16
+

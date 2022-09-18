@@ -1,0 +1,3 @@
+proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
+MFAP5_MOUSE,EHEAMKDELcR,3,0.376505083741587,-3.11536144061025,3,0.00312,0.00140407527628815,4738449,473.21146,0.00955173781333686,0,1,0,21,NaN,,NaN| NaN| 0.433470819807392| NaN| NaN| NaN| 0.451771910425668| NaN| NaN| 0.43491450515928| NaN| NaN,NaN,NaN,0.00842681891290333,0,0.0186566169969883,0.00361093910497736,0,0.0170056897944017,0.00322723925600466,0.7683208694653,0.0719038443387981
+

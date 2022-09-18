@@ -1,0 +1,5 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+VATH_MOUSE,YNIIPVLSDILQESVK,2,7
+VATH_MOUSE,YNIIPVLSDILQESVK,2,21
+VATH_MOUSE,ELMEGSDLNYYFNWIK,2,0
+

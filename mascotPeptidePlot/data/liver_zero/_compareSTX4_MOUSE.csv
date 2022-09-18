@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+STX4_MOUSE,VALVVHSGAAR,3,7
+STX4_MOUSE,TQHGVLSQQFVELINK,3,1
+STX4_MOUSE,TQHGVLSQQFVELINK,3,2
+STX4_MOUSE,TQHGVLSQQFVELINK,3,6
+

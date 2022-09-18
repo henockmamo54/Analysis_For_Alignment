@@ -1,0 +1,3 @@
+proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
+spCASB_BOVIN,LLYQEPVLGPVR,2,-1.94976289212761,-2.95582996198127,5,1E-05,0.010952640041796,78888420.8,692.40338,0.11757326766679,2,2,1,6| 7| 9| 21| 31,NaN,,NaN| NaN| NaN| NaN| 0.459765472506617| 0.502988597997277| 0.460853507695284| NaN| NaN| 0.45864283378099| NaN| 0.532077804319816,NaN,NaN,0.03822185187802,0,0.052682328248568,0.0189711398043988,0,0.0171334205183929,0.00616739026706636,-2,-2
+

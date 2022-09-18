@@ -1,0 +1,7 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+CHMP3_MOUSE,ILFEITAGALGK,2,0
+CHMP3_MOUSE,ILFEITAGALGK,2,3
+CHMP3_MOUSE,ILFEITAGALGK,2,9
+CHMP3_MOUSE,ILFEITAGALGK,2,21
+CHMP3_MOUSE,ILFEITAGALGK,2,24
+

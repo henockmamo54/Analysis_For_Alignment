@@ -1,0 +1,7 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+GPAT4_MOUSE,QGGLVDLLWDGGLK,2,0
+GPAT4_MOUSE,QGGLVDLLWDGGLK,2,2
+GPAT4_MOUSE,QGGLVDLLWDGGLK,2,3
+GPAT4_MOUSE,QGGLVDLLWDGGLK,2,6
+GPAT4_MOUSE,QGGLVDLLWDGGLK,2,7
+

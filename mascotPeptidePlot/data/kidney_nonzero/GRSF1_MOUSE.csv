@@ -1,0 +1,3 @@
+proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
+GRSF1_MOUSE,YIELFLNScPK,2,0.701556172433278,0.951382035423425,3,0.07133,0.0479083490807453,4056098.5,692.35248,0.0383787877974235,1,2,0,0| 1| 31,NaN,,0.41481450381661| 0.41512045524806| NaN| NaN| NaN| NaN| NaN| NaN| NaN| NaN| NaN| 0.189425224156313,0.41481450381661,0.195243119805758,0.0117216932656865,0,0.89491123204404,0.191412434089721,0,0.443286639866392,0.0864482130511352,0.865886334498661,0.997500856996902
+

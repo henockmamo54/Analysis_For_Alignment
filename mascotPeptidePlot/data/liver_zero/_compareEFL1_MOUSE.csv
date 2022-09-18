@@ -1,0 +1,4 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+EFL1_MOUSE,NIcVLAHVDHGK,3,7
+EFL1_MOUSE,SEDFQNSVWSGPAGR,2,1
+

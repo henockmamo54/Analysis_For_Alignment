@@ -1,0 +1,3 @@
+proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
+ATOX1_MOUSE,AVSYLGPK,2,0.157698476892278,-1.50316108237145,2,0.01057,0.00853988666643917,1846592.5,417.73962,0.0562188629634,1,1,0,9| 31,NaN,,NaN| NaN| NaN| NaN| NaN| NaN| 0.629136208314771| NaN| NaN| NaN| NaN| 0.570153005692672,NaN,NaN,0.0190487783313154,0,0.41375404303534,0.0317312723516008,0,0.159632271513163,0.0117314551913402,1,1
+

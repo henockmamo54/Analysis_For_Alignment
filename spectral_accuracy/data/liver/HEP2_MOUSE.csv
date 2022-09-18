@@ -1,0 +1,3 @@
+proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
+HEP2_MOUSE,IAIDLFK,2,0.227792254418886,0.73405801989419,3,0.16808,0.103085786464414,3119262.66666667,410.25235,0.0573362240743558,0,3,0,7| 13| 21,NaN,,NaN| NaN| NaN| NaN| NaN| 0.459405957708095| NaN| 0.392960600196571| NaN| 0.379092052245043| NaN| NaN,NaN,NaN,0.00903802485431732,0,0.857686232704016,0.160274666820309,0,0.355725913677276,0.0436116799247755,0.999958459056218,0.991268006124412
+

@@ -1,0 +1,7 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+CTBL1_MOUSE,FVDILGLR,2,0
+CTBL1_MOUSE,FVDILGLR,2,2
+CTBL1_MOUSE,FVDILGLR,2,13
+CTBL1_MOUSE,FVDILGLR,2,24
+CTBL1_MOUSE,FVDILGLR,2,31
+

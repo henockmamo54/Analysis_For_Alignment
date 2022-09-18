@@ -1,0 +1,5 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+CHD4_MOUSE,GPFLVSAPLSTIINWER,2,0
+CHD4_MOUSE,GPFLVSAPLSTIINWER,2,1
+CHD4_MOUSE,GPFLVSAPLSTIINWER,2,7
+

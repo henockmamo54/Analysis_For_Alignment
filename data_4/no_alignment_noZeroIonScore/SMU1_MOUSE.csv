@@ -1,0 +1,3 @@
+proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
+SMU1_MOUSE,YIHLENLLAR,3,-0.180525642290107,-0.208815038489286,4,19.2828,29981712.0603634,10433585.75,414.57153,0.0355807220078909,1,2,0,1| 7| 9,NaN,,NaN| 0.143160778461722| NaN| NaN| NaN| 0.221989127619963| 0.179672165420366| NaN| NaN| NaN| 0.181057860906719| NaN,NaN,NaN,0.0177078073813964,16.1300992726149,22.4355007273851,0.990653235039109,16.7386772423669,21.8269227576331,0.799423623781847,-2,-2
+

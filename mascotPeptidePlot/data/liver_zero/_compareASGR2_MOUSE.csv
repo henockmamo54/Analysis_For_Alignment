@@ -1,0 +1,5 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+ASGR2_MOUSE,WVDGTDYR,2,2
+ASGR2_MOUSE,WVDGTDYR,2,3
+ASGR2_MOUSE,WVDGTDYR,2,21
+

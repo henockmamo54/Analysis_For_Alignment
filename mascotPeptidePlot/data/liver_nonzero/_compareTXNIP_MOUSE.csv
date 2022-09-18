@@ -1,0 +1,7 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+TXNIP_MOUSE,GPLGTSFK,2,1
+TXNIP_MOUSE,GPLGTSFK,2,7
+TXNIP_MOUSE,GPLGTSFK,2,9
+TXNIP_MOUSE,GPLGTSFK,2,21
+TXNIP_MOUSE,GPLGTSFK,2,24
+

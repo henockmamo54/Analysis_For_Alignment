@@ -1,0 +1,3 @@
+proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
+RAC1_MOUSE,YLEcSALTQR,2,0.824806719661809,0.824806719661809,3,0.03332,0.00435338995727577,1371903.66666667,620.80316,0.0144692312253527,0,0,0,,NaN,,NaN| 0.526480816094003| NaN| NaN| NaN| NaN| 0.405411086944204| 0.363394178756511| NaN| NaN| NaN| NaN,NaN,NaN,0.0144692312253527,0,0.158697348178907,0.0291395462413302,0,0.158697348178907,0.0291395462413302,0.999387418429399,0.999387418429399
+

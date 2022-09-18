@@ -1,0 +1,3 @@
+proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
+EDEM1_MOUSE,VLGLVLLR,2,-1.16452101065653,-0.094039691104107,3,8E-05,0.0234816141521975,1142646,441.81039,0.0437203560166468,0,3,0,1| 2| 9,NaN,-0.014985887598671|,NaN| 0.554100933468531| 0.600489281903156| NaN| NaN| NaN| 0.572145795710616| NaN| NaN| NaN| NaN| NaN,NaN,NaN,0.00998523795470714,0,0.247786450726709,0.0575706352069828,0,0.0563017749409825,0.0130667703094556,-2,-2
+

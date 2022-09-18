@@ -1,0 +1,9 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+CIDEB_MOUSE,VLETLLLR,2,0
+CIDEB_MOUSE,VLETLLLR,2,1
+CIDEB_MOUSE,VLETLLLR,2,7
+CIDEB_MOUSE,VLETLLLR,2,9
+CIDEB_MOUSE,VLETLLLR,2,16
+CIDEB_MOUSE,VLETLLLR,2,21
+CIDEB_MOUSE,VLETLLLR,2,31
+

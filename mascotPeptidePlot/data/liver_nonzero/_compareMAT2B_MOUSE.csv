@@ -1,0 +1,8 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+MAT2B_MOUSE,SANMDHWQQR,3,0
+MAT2B_MOUSE,SANMDHWQQR,3,1
+MAT2B_MOUSE,SANMDHWQQR,3,2
+MAT2B_MOUSE,SANMDHWQQR,3,3
+MAT2B_MOUSE,SANMDHWQQR,3,16
+MAT2B_MOUSE,SANMDHWQQR,3,31
+

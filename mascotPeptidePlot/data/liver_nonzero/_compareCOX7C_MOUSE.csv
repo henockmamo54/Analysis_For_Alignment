@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+COX7C_MOUSE,NLPFSVENK,2,1
+COX7C_MOUSE,NLPFSVENK,2,3
+COX7C_MOUSE,NLPFSVENK,2,9
+COX7C_MOUSE,NLPFSVENK,2,24
+

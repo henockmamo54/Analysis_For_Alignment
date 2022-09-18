@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+GNTK_MOUSE,IPWLcTLHDILLR,3,0
+GNTK_MOUSE,IPWLcTLHDILLR,3,1
+GNTK_MOUSE,IPWLcTLHDILLR,3,7
+GNTK_MOUSE,IPWLcTLHDILLR,3,24
+

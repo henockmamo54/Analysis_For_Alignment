@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+SNAG_MOUSE,EIENYPTcYK,2,0
+SNAG_MOUSE,EIENYPTcYK,2,2
+SNAG_MOUSE,EIENYPTcYK,2,16
+SNAG_MOUSE,EIENYPTcYK,2,21
+

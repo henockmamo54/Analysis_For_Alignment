@@ -1,0 +1,3 @@
+proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
+SAR1B_MOUSE,LVFLGLDNAGK,2,0.491426881405187,0.742003589213088,3,0.12302,0.0528959335801266,20365493.3333333,573.82953,0.0404408852640843,0,2,1,0| 1| 6,NaN,,0.579439776524834| 0.492605150449806| NaN| NaN| 0.359028709563423| NaN| NaN| NaN| NaN| NaN| NaN| NaN,0.50281,0.248073628701478,0.0230231979925859,0,0.985239224828306,0.200392473895657,0,0.689100326433783,0.131565423005171,0.999994637603676,0.982184896760544
+

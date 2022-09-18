@@ -1,0 +1,3 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+ATAD1_MOUSE,LQPSIIFIDEIDSFLR,3,31
+

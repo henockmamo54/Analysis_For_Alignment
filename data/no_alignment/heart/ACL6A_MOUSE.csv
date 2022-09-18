@@ -1,0 +1,3 @@
+proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
+ACL6A_MOUSE,SEASLHPVLMSEAPWNTR,3,-3.60594726047707,0.194278242994268,3,0.29653,0.0617959259998676,13754473.3333333,675.66681,0.0258559445971068,1,0,0,0,NaN,,0.24064252820888| NaN| 0.188334307626425| 0.150415973150231| NaN| NaN| NaN| NaN| NaN| NaN| NaN| NaN,0.29804,0.0452980043474928,0.0166017796905387,0,0.987004162301179,0.160476386469018,0,0.749902989898368,0.105370574474602,0.893809455212473,0.98024344907391
+

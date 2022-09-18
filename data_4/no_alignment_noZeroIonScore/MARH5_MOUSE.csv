@@ -1,0 +1,3 @@
+proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
+MARH5_MOUSE,VAcPQcNAEYLIVFPK,2,-21.7726924909769,-5.54156321454439,3,0.64247,0.2243628616672,5366084.66666667,954.97095,0.0407623846463486,0,1,0,1,NaN,,0.175473029087812| 0.217510186124205| 0.140211613800169| NaN| NaN| NaN| NaN| NaN| NaN| NaN| NaN| NaN,0.31454,0.0765648204220389,0.0404075089067483,0,3.04708414903152,0.558867819474659,0,3.05629750755217,0.561009139980715,0.734353712791081,0.291295949850767
+

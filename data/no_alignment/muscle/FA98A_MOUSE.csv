@@ -1,0 +1,3 @@
+proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
+FA98A_MOUSE,VGKPLLK,2,-0.58391993886611,-710.318255155485,2,1E-05,0.00268710694237785,4026977,377.76291,0.0113990539853097,0,1,0,1,NaN,,NaN| 0.623315872909757| NaN| NaN| NaN| NaN| NaN| NaN| NaN| NaN| 0.623721839255234| NaN,NaN,NaN,0.00221012271701754,0,0.118360653910594,0.00931439846665245,0,0.0228854797208434,0.00180033929847759,-2,-2
+

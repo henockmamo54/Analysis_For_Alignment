@@ -1,0 +1,4 @@
+proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
+TBB6_MOUSE,VAVcDIPPR,2,NaN,NaN,1,19.09237,NaN,17700790,513.77368,0.106724311214648,NaN,NaN,NaN,NaNNaN,NaN,NaN,NaN,NaN,NaNNaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+TBB6_MOUSE,LTTPTYGDLNHLVSATMSGVTTSLR,3,-2.75242238315974,0.678636389808756,3,0.19803,0.137911327433203,3755128,879.11804,0.0405404073799548,0,0,2,0| 1,NaN,,0.29987265741947| 0.170954048777853| NaN| NaN| NaN| NaN| 0.0825884722818609| NaN| NaN| NaN| NaN| NaN,0.21379,0.0431043623132339,0.0252887646446063,0,1.81559463885309,0.375945896741578,0,1.2767166342516,0.250702694826716,0.237388455763076,0.911357266344338
+

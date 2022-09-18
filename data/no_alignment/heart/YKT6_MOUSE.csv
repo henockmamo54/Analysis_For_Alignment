@@ -1,0 +1,3 @@
+proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
+YKT6_MOUSE,VAFTLLEK,2,-0.353478192969518,-0.0678268816893708,3,17.85623,9610450.53255778,1167545.33333333,460.77621,0.0361402210788709,0,0,1,21,NaN,,NaN| 0.321016043936431| NaN| NaN| NaN| NaN| 0.383776079036096| NaN| NaN| 0.341209976356454| NaN| NaN,NaN,NaN,0.0135156300289883,12.5729525208318,23.1395074791682,1.22791166543351,13.7333425491964,21.9791174508036,0.958219895902248,-2,-2
+

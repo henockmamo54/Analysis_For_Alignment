@@ -1,0 +1,7 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+SC16B_MOUSE,DLEPDWLVQLR,2,1
+SC16B_MOUSE,DLEPDWLVQLR,2,2
+SC16B_MOUSE,DLEPDWLVQLR,2,3
+SC16B_MOUSE,DLEPDWLVQLR,2,6
+SC16B_MOUSE,DLEPDWLVQLR,2,16
+

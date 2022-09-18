@@ -1,0 +1,5 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+ACTY_MOUSE,LYSTWIGGSILASLDTFK,2,9
+ACTY_MOUSE,LYSTWIGGSILASLDTFK,3,0
+ACTY_MOUSE,LYSTWIGGSILASLDTFK,3,9
+

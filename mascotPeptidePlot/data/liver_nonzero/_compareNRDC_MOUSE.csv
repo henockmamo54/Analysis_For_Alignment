@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+NRDC_MOUSE,SIEDIENSWTELWK,2,2
+NRDC_MOUSE,SIEDIENSWTELWK,2,6
+NRDC_MOUSE,NWNEVVTQQYLFDR,2,6
+NRDC_MOUSE,NWNEVVTQQYLFDR,2,7
+

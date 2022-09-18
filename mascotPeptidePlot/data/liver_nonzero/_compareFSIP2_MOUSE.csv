@@ -1,0 +1,7 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+FSIP2_MOUSE,IAGSIIK,2,1
+FSIP2_MOUSE,IAGSIIK,2,7
+FSIP2_MOUSE,IAGSIIK,2,9
+FSIP2_MOUSE,IAGSIIK,2,13
+FSIP2_MOUSE,IAGSIIK,2,16
+

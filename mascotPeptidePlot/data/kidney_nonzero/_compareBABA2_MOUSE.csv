@@ -1,0 +1,4 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA,min_kl,min_kl_decoy
+BABA2_MOUSE,LPVDFSNIPTYLLK,2,0,0.00213320150529582,0,NaN,0,0,0,0,NaN,0.371808359915192,-0.0229104230980005,0
+BABA2_MOUSE,LPVDFSNIPTYLLK,2,2,100,NaN,100,NaN,NaN,NaN,NaN,0.371808359915192,0.290868343495016,0,0
+

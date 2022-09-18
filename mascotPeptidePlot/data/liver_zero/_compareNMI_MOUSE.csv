@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+NMI_MOUSE,KLEAELQSDAR,2,9
+NMI_MOUSE,INVTGIPDELSEEQTR,2,0
+NMI_MOUSE,INVTGIPDELSEEQTR,2,2
+NMI_MOUSE,INVTGIPDELSEEQTR,2,31
+

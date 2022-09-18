@@ -1,0 +1,5 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+VAMP3_MOUSE,LQQTQNQVDEVVDIMR,2,0
+VAMP3_MOUSE,LQQTQNQVDEVVDIMR,2,1
+VAMP3_MOUSE,LQQTQNQVDEVVDIMR,2,3
+

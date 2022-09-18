@@ -1,0 +1,8 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+IPIL2_MOUSE,SGFPLLK,2,1
+IPIL2_MOUSE,SGFPLLK,2,2
+IPIL2_MOUSE,SGFPLLK,2,3
+IPIL2_MOUSE,SGFPLLK,2,9
+IPIL2_MOUSE,SGFPLLK,2,24
+IPIL2_MOUSE,SGFPLLK,2,31
+

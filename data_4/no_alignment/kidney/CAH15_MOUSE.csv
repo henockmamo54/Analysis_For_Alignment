@@ -1,0 +1,3 @@
+proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
+CAH15_MOUSE,SGTWcYDSQDPK,2,0.388658907963458,0.456645992911954,4,2270.96125,NaN,2139399.5,722.2959,0.0653831658530613,1,2,1,0| 1| 2| 24,NaN,,0.389488275028156| 0.123164933492671| 0.301982251106423| NaN| NaN| NaN| NaN| NaN| NaN| NaN| 0.195004709767612| NaN,0.43667,0.170237649134511,0.0432165122477868,NaN,NaN,NaN,NaN,NaN,NaN,0.778318380799822,0.779361529122155
+

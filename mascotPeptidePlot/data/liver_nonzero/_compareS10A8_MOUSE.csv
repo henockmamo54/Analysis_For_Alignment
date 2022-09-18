@@ -1,0 +1,5 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+S10A8_MOUSE,MVTTEcPQFVQNINIENLFR,3,0
+S10A8_MOUSE,MVTTEcPQFVQNINIENLFR,3,1
+S10A8_MOUSE,MVTTEcPQFVQNINIENLFR,3,24
+

@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+MFR1L_MOUSE,TTELQDELSHLR,3,0
+MFR1L_MOUSE,TTELQDELSHLR,3,1
+MFR1L_MOUSE,TTELQDELSHLR,3,2
+MFR1L_MOUSE,TTELQDELSHLR,3,9
+

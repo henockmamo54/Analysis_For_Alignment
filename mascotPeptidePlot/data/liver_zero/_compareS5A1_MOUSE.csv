@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+S5A1_MOUSE,YSSQWSGR,2,13
+S5A1_MOUSE,YSSQWSGR,2,16
+S5A1_MOUSE,YSSQWSGR,2,21
+S5A1_MOUSE,YSSQWSGR,2,31
+

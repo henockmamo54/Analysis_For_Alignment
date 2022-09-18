@@ -1,0 +1,6 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+S22AJ_MOUSE,ISIPLDSNLR,2,6
+S22AJ_MOUSE,ISIPLDSNLR,2,9
+S22AJ_MOUSE,ISIPLDSNLR,2,24
+S22AJ_MOUSE,ISIPLDSNLR,2,31
+

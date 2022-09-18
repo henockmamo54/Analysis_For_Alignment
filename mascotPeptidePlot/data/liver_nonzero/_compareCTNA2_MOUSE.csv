@@ -1,0 +1,5 @@
+Protein,Peptide,charge,time,RSS,theta,min_rss_decoy,diff,abs_diff,perc_diff,abs_perc_diff,exp_RIA_decoy,theoRIA
+CTNA2_MOUSE,LQEGDVDTLDRTAGAIRGR,2,13
+CTNA2_MOUSE,LQEGDVDTLDRTAGAIRGR,2,24
+CTNA2_MOUSE,LQEGDVDTLDRTAGAIRGR,2,31
+
