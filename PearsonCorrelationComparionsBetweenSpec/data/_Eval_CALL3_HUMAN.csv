@@ -1,0 +1,4 @@
+Protein,Peptied,charge,time,ionscore,corr_theo,corr_best_exp
+CALL3_HUMAN,EAFSLFDK,2,13,40.14,0.999158062910506,-1000
+CALL3_HUMAN,EAFSLFDK,2,14,40.06,0.999157365016468,-1000
+

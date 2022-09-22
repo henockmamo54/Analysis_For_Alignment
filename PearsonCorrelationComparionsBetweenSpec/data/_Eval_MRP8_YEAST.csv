@@ -1,0 +1,4 @@
+Protein,Peptied,charge,time,ionscore,corr_theo,corr_best_exp
+MRP8_YEAST,VLELQLDK,2,25,37.31,0.943299542488819,-1000
+MRP8_YEAST,VLELQLDK,2,26,36.02,0.998355760075591,-1000
+

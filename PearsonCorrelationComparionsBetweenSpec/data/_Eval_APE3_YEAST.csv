@@ -1,0 +1,4 @@
+Protein,Peptied,charge,time,ionscore,corr_theo,corr_best_exp
+APE3_YEAST,NLYVDYYK,2,27,24.74,0.704767840682711,-1000
+APE3_YEAST,NLYVDYYK,2,36,28.85,0.675455694450135,-1000
+

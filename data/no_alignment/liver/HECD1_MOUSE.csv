@@ -1,3 +1,3 @@
 proteinName,peptideSeq,charge,old_Rsquared,new_Rsquared,NDP,rateconstant,sigma,Abundance,MassToCharge,RMSE,selected_A1A0_count, selected_A2A0_count, selected_A2A1_count,improved_timePoints,new_k,I0_percentatediffI0_percentatediff,selected_io_t,i0,I0_asymptote,new_rmse,lowerci_old,upperci_old,sigma_old,lowerci_new,upperci_new,sigma_new,old_pearson,new_pearson
-HECD1_MOUSE,TALENLIVLLK,2,0.952698798118941,0.969131428833674,2,1.28537,0.0510674040100936,1120931,613.88953,0.00334801491584095,0,1,0,3,NaN,-0.0380792631824845|,NaN| 0.31954405919625| NaN| 0.253425461403506| NaN| NaN| NaN| NaN| NaN| NaN| NaN| NaN,NaN,NaN,0.00237124417801046,0,6.11438307426482,0.380051571226263,0,6.03103838667009,0.373492202057737,1,1
+HECD1_MOUSE,TALENLIVLLK,2,NaN,NaN,1,1.28537,0.162514541895287,1120931,613.88953,0.00238264148267479,NaN,NaN,NaN,NaNNaN,NaN,NaN,NaN,NaN,NaNNaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 

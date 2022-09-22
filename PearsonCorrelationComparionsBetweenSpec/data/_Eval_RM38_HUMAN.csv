@@ -1,0 +1,4 @@
+Protein,Peptied,charge,time,ionscore,corr_theo,corr_best_exp
+RM38_HUMAN,LAFLLFK,2,5,40.98,0.997898525193964,-1000
+RM38_HUMAN,LAFLLFK,2,23,47.62,0.88324059245128,-1000
+

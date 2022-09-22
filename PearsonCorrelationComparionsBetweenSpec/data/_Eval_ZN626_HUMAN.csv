@@ -1,0 +1,4 @@
+Protein,Peptied,charge,time,ionscore,corr_theo,corr_best_exp
+ZN626_HUMAN,HSSTLTTHK,2,30,34.8,0.822885280937429,-1000
+ZN626_HUMAN,HSSTLTTHK,2,32,36.39,0.841677715464571,-1000
+

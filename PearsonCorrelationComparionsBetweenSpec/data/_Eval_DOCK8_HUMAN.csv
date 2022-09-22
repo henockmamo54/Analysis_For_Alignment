@@ -1,0 +1,4 @@
+Protein,Peptied,charge,time,ionscore,corr_theo,corr_best_exp
+DOCK8_HUMAN,LEEALLR,2,2,47.87,0.99777524603876,-1000
+DOCK8_HUMAN,LEEALLR,2,11,47.45,0.975371315120378,-1000
+

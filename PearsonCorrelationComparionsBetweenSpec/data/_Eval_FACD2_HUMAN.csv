@@ -1,0 +1,4 @@
+Protein,Peptied,charge,time,ionscore,corr_theo,corr_best_exp
+FACD2_HUMAN,LVSPLcLAPYFR,2,1,37.28,0.993092071011584,-1000
+FACD2_HUMAN,LVSPLcLAPYFR,2,4,51.67,0.980269123906888,-1000
+

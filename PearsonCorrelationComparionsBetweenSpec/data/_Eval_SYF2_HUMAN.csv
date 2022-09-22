@@ -1,0 +1,4 @@
+Protein,Peptied,charge,time,ionscore,corr_theo,corr_best_exp
+SYF2_HUMAN,LLEISAEDAER,2,2,48.12,0.96550057285965,-1000
+SYF2_HUMAN,LLEISAEDAER,2,5,47.98,0.868145287236682,-1000
+

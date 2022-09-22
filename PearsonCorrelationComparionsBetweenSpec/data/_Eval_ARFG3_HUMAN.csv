@@ -1,0 +1,4 @@
+Protein,Peptied,charge,time,ionscore,corr_theo,corr_best_exp
+ARFG3_HUMAN,LANTcFNEIEK,2,5,40.41,0.988295268988114,-1000
+ARFG3_HUMAN,LANTcFNEIEK,2,7,44.82,0.957119237989768,-1000
+
